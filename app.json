@@ -1,0 +1,6 @@
+{
+    "name": "Some random snippets and components",
+    "description": "Node express app for demoing some intentionally-buggy stuff",
+    "image": "heroku/nodejs"
+  }
+  
