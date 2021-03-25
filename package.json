@@ -7,8 +7,7 @@
     },
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
-        "test": "node test.js"
+        "start": "node --max_old_space_size=2048 index.js"
     },
     "dependencies": {
         "ejs": "^3.1.5",
