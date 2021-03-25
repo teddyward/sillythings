@@ -1,5 +1,5 @@
 {
-    "name": "Some random snippets and components",
+    "name": "thatsnotright",
     "description": "Node express app for demoing some intentionally-buggy stuff",
     "image": "heroku/nodejs"
   }
